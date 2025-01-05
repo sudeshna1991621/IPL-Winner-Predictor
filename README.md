@@ -10,3 +10,5 @@ Create a new Environment
 conda create -p venv python==3.9 -y
 
 '''
+check the application on:
+https://ipl-winner-predictor-uhtf.onrender.com

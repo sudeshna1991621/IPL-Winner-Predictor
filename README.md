@@ -113,7 +113,7 @@ Access the app live:
 
 ## 🙏 Acknowledgements
 
-- Dataset Source: [Kaggle IPL Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/haroon669/ipl-matches-and-deliveries-dataset))
+- Dataset Source: [Kaggle IPL Dataset]([https://www.kaggle.com/datasets/haroon669/ipl-matches-and-deliveries-dataset])
 - Libraries: Pandas, Scikit-learn, Streamlit, Render
 
 ---
